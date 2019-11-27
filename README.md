@@ -1,6 +1,6 @@
 # Bybit Ticker
 
-1. Sync your Windows time
+1. Sync your Windows time</br>
 2. On first start, it will create a <b>bybitconfig.txt</b> file. </br>
    Please add your apikey and apisecret</br></br>
    
@@ -18,8 +18,8 @@
 
    ![Screenshot](ticker.PNG)
    
-   Nice to know: 
-   - The Percent is not always accurat to the Bybit Percent on the Webpage
-   - Alarm Example: 
-     If you set the Alarm to 50 , then the alarm is triggered when the price goes 50 points above or below the watch price.
+   Nice to know: </br>
+   - The Percent is not always accurat to the Bybit Percent on the Webpage</br>
+   - Alarm Example:</br> 
+     If you set the Alarm to 50 , then the alarm is triggered when the price goes 50 points above or below the watch price.</br>
    
