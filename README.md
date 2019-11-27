@@ -16,4 +16,7 @@
    streamurl=wss://stream-testnet.bybit.com/realtime</br>
    apiurl=https://api-testnet.bybit.com</br>
 
-![Screenshot](ticker.PNG)
+   ![Screenshot](ticker.PNG)
+   
+   - The Percent is not always accurat to the Bybit Number
+   - If you set the Alarm to 50 , then the alarm is triggered when the price goes 50 points above or below the watch price.
