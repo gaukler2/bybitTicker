@@ -19,7 +19,7 @@
    ![Screenshot](ticker.PNG)
    
    Nice to know: 
-   - The Percent is not always accurat to the Bybit Number
+   - The Percent is not always accurat to the Bybit Percent on the Webpage
    - Alarm Example: 
      If you set the Alarm to 50 , then the alarm is triggered when the price goes 50 points above or below the watch price.
    
