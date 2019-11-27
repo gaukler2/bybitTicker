@@ -18,5 +18,8 @@
 
    ![Screenshot](ticker.PNG)
    
+   Nice to know: 
    - The Percent is not always accurat to the Bybit Number
-   - If you set the Alarm to 50 , then the alarm is triggered when the price goes 50 points above or below the watch price.
+   - Alarm Example: 
+     If you set the Alarm to 50 , then the alarm is triggered when the price goes 50 points above or below the watch price.
+   
