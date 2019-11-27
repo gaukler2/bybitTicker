@@ -15,3 +15,5 @@
    apiSecret=1234 -> use your own key</br>
    streamurl=wss://stream-testnet.bybit.com/realtime</br>
    apiurl=https://api-testnet.bybit.com</br>
+
+![Screenshot](ticker.PNG)
